@@ -3,8 +3,9 @@ Currently this framework supports API tests only but can be easily extened to UI
 
 Test Scenarios for given Assignment from TransferGo can be found under :
 
-**Functional API Tests : features/api
-Non Functional API Tests: features/nfr**
+**Functional API Tests : features/api**
+
+**Non Functional API Tests: features/nfr**
 
 **####### Installation ########**
 

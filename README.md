@@ -1,9 +1,10 @@
 **This is Playwright-Cucumber-Typescript (node js) based Automation framework that can be used for API Testing and UI Testing
 Currently this framework supports API tests only but can be easily extened to UI Tests support.**
 
-Test Scenarios can be found under 
-Functional API Tests : features/api
-Non Functional API Tests: features/nfr
+Test Scenarios for given Assignment from TransferGo can be found under :
+
+**Functional API Tests : features/api
+Non Functional API Tests: features/nfr**
 
 **####### Installation ########**
 
